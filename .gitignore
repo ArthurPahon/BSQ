@@ -1,0 +1,8 @@
+.vscode
+a.out.dSYM/Contents
+jusepas
+a.out
+*.o
+maps-intermediate
+bsq
+.DS_Store
